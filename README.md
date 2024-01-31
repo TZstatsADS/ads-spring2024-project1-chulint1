@@ -17,6 +17,7 @@ Term: Fall 2023
   1. Does your girlfriend value your achivement?
   2. What kind of activity does your girlfriend like the most?
   3. What are the gifts that your girlfriend likes?
+  
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
